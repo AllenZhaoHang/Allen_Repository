@@ -1,0 +1,10 @@
+Apple,1
+Banana,2
+cherry,3
+dragon fruit,4
+eggplant,5
+fig,6
+grape,7
+honeydew melon,8
+Indian gooseberry,9
+Japanese plum,10

@@ -1,0 +1,13 @@
+wake_up brush_teeth
+brush_teeth shower
+shower get_dressed
+get_dressed breakfast
+breakfast go_to_work
+go_to_work eat_lunch
+eat_lunch work
+work go_home
+go_home dinner
+dinner eat_dessert
+eat_dessert exercise
+exercise shower_before_bed
+shower_before_bed sleep

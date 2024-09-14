@@ -1,0 +1,7 @@
+
+在当前路径下Run:
+bash generate_attack_data_base_1.sh
+
+SparseFool, JSMA 大概三天
+OnePixel， Square六小时
+DeepFool，Pixle 20小时

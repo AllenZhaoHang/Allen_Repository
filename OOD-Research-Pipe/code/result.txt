@@ -1,0 +1,261 @@
+start
+2.1.0
+cuda:0
+Model generated.
+Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to data/cifar-10-python.tar.gz
+2.1.0
+cuda:0
+Model generated.
+Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to data/cifar-10-python.tar.gz
+2.1.0
+cuda:0
+Model generated.
+Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to data/cifar-10-python.tar.gz
+2.1.0
+cuda:0
+Model generated.
+Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to data/cifar-10-python.tar.gz
+Extracting data/cifar-10-python.tar.gz to data
+Extracting data/cifar-10-python.tar.gz to data
+Files already downloaded and verified
+Attacker VANILA generated.
+Estimate_process_time: 0 hours 0 minutes 9 seconds
+Extracting data/cifar-10-python.tar.gz to data
+Files already downloaded and verified
+Attacker GN generated.
+Estimate_process_time: 0 hours 0 minutes 1 seconds
+Extracting data/cifar-10-python.tar.gz to data
+Files already downloaded and verified
+Attacker FGSM generated.
+Estimate_process_time: 2 hours 52 minutes 15 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker FFGSM generated.
+Estimate_process_time: 0 hours 43 minutes 27 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker PGD generated.
+Estimate_process_time: 0 hours 47 minutes 0 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker RFGSM generated.
+Estimate_process_time: 0 hours 47 minutes 3 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker EOTPGD generated.
+Estimate_process_time: 0 hours 50 minutes 55 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker TPGD generated.
+Estimate_process_time: 0 hours 47 minutes 40 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker UPGD generated.
+Estimate_process_time: 0 hours 47 minutes 34 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker MIFGSM generated.
+Estimate_process_time: 0 hours 47 minutes 34 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker APGD generated.
+Estimate_process_time: 0 hours 48 minutes 20 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker DIFGSM generated.
+Estimate_process_time: 0 hours 46 minutes 52 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker TIFGSM generated.
+Estimate_process_time: 0 hours 47 minutes 17 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker Jitter generated.
+Estimate_process_time: 0 hours 48 minutes 6 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker APGDT generated.
+Estimate_process_time: 0 hours 49 minutes 50 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker NIFGSM generated.
+Estimate_process_time: 0 hours 47 minutes 29 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker PGDRS generated.
+Estimate_process_time: 0 hours 53 minutes 27 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker SINIFGSM generated.
+Estimate_process_time: 1 hours 3 minutes 8 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker VMIFGSM generated.
+Estimate_process_time: 1 hours 7 minutes 38 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker PGDL2 generated.
+Estimate_process_time: 0 hours 46 minutes 17 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker PGDRSL2 generated.
+Estimate_process_time: 0 hours 53 minutes 31 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker VNIFGSM generated.
+Estimate_process_time: 1 hours 5 minutes 29 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker CW generated.
+Estimate_process_time: 1 hours 29 minutes 2 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker OnePixel generated.
+Estimate_process_time: 6 hours 54 minutes 13 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker DeepFool generated.
+Estimate_process_time: 13 hours 13 minutes 59 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker Pixle generated.
+Estimate_process_time: 20 hours 42 minutes 15 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker SparseFool generated.
+Estimate_process_time: 69 hours 43 minutes 38 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker AutoAttack generated.
+Estimate_process_time: 0 hours 47 minutes 34 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker SPSA generated.
+Estimate_process_time: 1 hours 5 minutes 24 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker FAB generated.
+Estimate_process_time: 1 hours 19 minutes 26 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker Square generated.
+Estimate_process_time: 5 hours 13 minutes 23 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker PIFGSM generated.
+Estimate_process_time: 0 hours 51 minutes 18 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker EADEN generated.
+Estimate_process_time: 3 hours 42 minutes 18 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker EADL1 generated.
+Estimate_process_time: 3 hours 55 minutes 17 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker JSMA generated.
+Estimate_process_time: 64 hours 16 minutes 16 seconds
+2.1.0
+cuda:0
+Model generated.
+Files already downloaded and verified
+Files already downloaded and verified
+Attacker PIFGSMPP generated.
+Estimate_process_time: 0 hours 13 minutes 40 seconds

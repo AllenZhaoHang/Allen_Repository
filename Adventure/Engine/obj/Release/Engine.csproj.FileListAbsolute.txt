@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\Adventure\Engine\bin\Release\Engine.dll
+C:\Users\Lenovo\source\repos\Adventure\Engine\bin\Release\Engine.pdb
+C:\Users\Lenovo\source\repos\Adventure\Engine\obj\Release\Engine.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Adventure\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Adventure\Engine\obj\Release\Engine.dll
+C:\Users\Lenovo\source\repos\Adventure\Engine\obj\Release\Engine.pdb

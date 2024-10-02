@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Release\SuperAdventure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Release\SuperAdventure.SuperAdventure.resources
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Release\Adventure.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Release\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Release\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Release\Adventure.exe
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Release\Adventure.pdb
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Release\SuperAdventure.TradingScreen.resources
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Release\SuperAdventure.WorldMap.resources
+C:\Users\Lenovo\source\repos\Adventure\Adventure\bin\Release\Adventure.exe.config
+C:\Users\Lenovo\source\repos\Adventure\Adventure\bin\Release\Adventure.exe
+C:\Users\Lenovo\source\repos\Adventure\Adventure\bin\Release\Adventure.pdb
+C:\Users\Lenovo\source\repos\Adventure\Adventure\bin\Release\Engine.dll
+C:\Users\Lenovo\source\repos\Adventure\Adventure\bin\Release\Engine.pdb
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Release\SuperAdv.5A2A7CD7.Up2Date

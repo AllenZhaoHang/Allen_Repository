@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Debug\Adventure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Debug\Adventure.Adventure.resources
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Debug\Adventure.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Debug\Adventure.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Debug\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Adventure\Adventure\bin\Debug\Adventure.exe.config
+C:\Users\Lenovo\source\repos\Adventure\Adventure\bin\Debug\Adventure.exe
+C:\Users\Lenovo\source\repos\Adventure\Adventure\bin\Debug\Adventure.pdb
+C:\Users\Lenovo\source\repos\Adventure\Adventure\bin\Debug\Engine.dll
+C:\Users\Lenovo\source\repos\Adventure\Adventure\bin\Debug\Engine.pdb
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Debug\Adventure.csproj.Up2Date
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Debug\Adventure.exe
+C:\Users\Lenovo\source\repos\Adventure\Adventure\obj\Debug\Adventure.pdb

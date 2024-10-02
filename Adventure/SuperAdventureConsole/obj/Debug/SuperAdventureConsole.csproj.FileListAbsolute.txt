@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Adventure\SuperAdventureConsole\bin\Debug\SuperAdventureConsole.exe.config
+C:\Users\Lenovo\source\repos\Adventure\SuperAdventureConsole\bin\Debug\SuperAdventureConsole.exe
+C:\Users\Lenovo\source\repos\Adventure\SuperAdventureConsole\bin\Debug\SuperAdventureConsole.pdb
+C:\Users\Lenovo\source\repos\Adventure\SuperAdventureConsole\bin\Debug\Engine.dll
+C:\Users\Lenovo\source\repos\Adventure\SuperAdventureConsole\bin\Debug\Engine.pdb
+C:\Users\Lenovo\source\repos\Adventure\SuperAdventureConsole\obj\Debug\SuperAdventureConsole.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Adventure\SuperAdventureConsole\obj\Debug\SuperAdventureConsole.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Adventure\SuperAdventureConsole\obj\Debug\SuperAdv.9E0914E2.Up2Date
+C:\Users\Lenovo\source\repos\Adventure\SuperAdventureConsole\obj\Debug\SuperAdventureConsole.exe
+C:\Users\Lenovo\source\repos\Adventure\SuperAdventureConsole\obj\Debug\SuperAdventureConsole.pdb

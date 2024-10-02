@@ -1,0 +1,459 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\adventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|solutionrelative:adventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|c:\\users\\lenovo\\source\\repos\\adventure\\adventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|solutionrelative:adventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\adventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|solutionrelative:adventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\adventure\\tradingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|solutionrelative:adventure\\tradingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\engine\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A459BF-637B-4BA5-BE8A-86184971E17E}|SuperAdventureConsole\\SuperAdventureConsole.csproj|c:\\users\\lenovo\\source\\repos\\adventure\\superadventureconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A459BF-637B-4BA5-BE8A-86184971E17E}|SuperAdventureConsole\\SuperAdventureConsole.csproj|solutionrelative:superadventureconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|c:\\users\\lenovo\\source\\repos\\adventure\\adventure\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|solutionrelative:adventure\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|c:\\users\\lenovo\\source\\repos\\adventure\\adventure\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|solutionrelative:adventure\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\engine\\playerdatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\playerdatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\engine\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|c:\\users\\lenovo\\source\\repos\\adventure\\adventure\\worldmap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|solutionrelative:adventure\\worldmap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\adventure\\superadventure.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|solutionrelative:adventure\\superadventure.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\engine\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\engine\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|c:\\users\\lenovo\\source\\repos\\adventure\\engine\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\adventure\\tradingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|solutionrelative:adventure\\tradingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|c:\\users\\lenovo\\source\\repos\\adventure\\engine\\questcompletionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\questcompletionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\engine\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|c:\\users\\lenovo\\source\\repos\\adventure\\engine\\playerquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\playerquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|c:\\users\\lenovo\\source\\repos\\adventure\\engine\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\engine\\livingcreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\livingcreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\engine\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\adventure\\tradingscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9576AB-228F-42CE-B9AD-11C21BDCE6F0}|Adventure\\SuperAdventure.csproj|solutionrelative:adventure\\tradingscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\engine\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|C:\\Users\\Lenovo\\source\\repos\\Adventure\\engine\\messageeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6F874-A680-4C3B-93F4-EDF321B67A9C}|Engine\\Engine.csproj|solutionrelative:engine\\messageeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuperAdventure.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\SuperAdventure.cs",
+              "RelativeDocumentMoniker": "Adventure\\SuperAdventure.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\SuperAdventure.cs",
+              "RelativeToolTip": "Adventure\\SuperAdventure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:15:58.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\Program.cs",
+              "RelativeDocumentMoniker": "Adventure\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\Program.cs",
+              "RelativeToolTip": "Adventure\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:30:38.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuperAdventure.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\SuperAdventure.cs",
+              "RelativeDocumentMoniker": "Adventure\\SuperAdventure.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\SuperAdventure.cs [Design]",
+              "RelativeToolTip": "Adventure\\SuperAdventure.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:02:26.898Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\World.cs",
+              "RelativeDocumentMoniker": "Engine\\World.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\World.cs",
+              "RelativeToolTip": "Engine\\World.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:35:36.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TradingScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\TradingScreen.cs",
+              "RelativeDocumentMoniker": "Adventure\\TradingScreen.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\TradingScreen.cs",
+              "RelativeToolTip": "Adventure\\TradingScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:26:44.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\SuperAdventureConsole\\Program.cs",
+              "RelativeDocumentMoniker": "SuperAdventureConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\SuperAdventureConsole\\Program.cs",
+              "RelativeToolTip": "SuperAdventureConsole\\Program.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAgwNEBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:07:24.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorldMap.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\WorldMap.cs",
+              "RelativeDocumentMoniker": "Adventure\\WorldMap.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\WorldMap.cs",
+              "RelativeToolTip": "Adventure\\WorldMap.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:12:34.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorldMap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\WorldMap.cs",
+              "RelativeDocumentMoniker": "Adventure\\WorldMap.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\WorldMap.cs [Design]",
+              "RelativeToolTip": "Adventure\\WorldMap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:13:43.525Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerDataMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\PlayerDataMapper.cs",
+              "RelativeDocumentMoniker": "Engine\\PlayerDataMapper.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\PlayerDataMapper.cs",
+              "RelativeToolTip": "Engine\\PlayerDataMapper.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAuwDsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:13:01.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Player.cs",
+              "RelativeDocumentMoniker": "Engine\\Player.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Player.cs",
+              "RelativeToolTip": "Engine\\Player.cs",
+              "ViewState": "AgIAAC8CAAAAAAAAAAAswEICAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:04:29.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorldMap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\WorldMap.Designer.cs",
+              "RelativeDocumentMoniker": "Adventure\\WorldMap.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\WorldMap.Designer.cs",
+              "RelativeToolTip": "Adventure\\WorldMap.Designer.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAswJkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:14:01.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Item.cs",
+              "RelativeDocumentMoniker": "Engine\\Item.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Item.cs",
+              "RelativeToolTip": "Engine\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:34:59.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HealingPotion.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\HealingPotion.cs",
+              "RelativeDocumentMoniker": "Engine\\HealingPotion.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\HealingPotion.cs",
+              "RelativeToolTip": "Engine\\HealingPotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:34:19.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SuperAdventure.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\SuperAdventure.Designer.cs",
+              "RelativeDocumentMoniker": "Adventure\\SuperAdventure.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\SuperAdventure.Designer.cs",
+              "RelativeToolTip": "Adventure\\SuperAdventure.Designer.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAAAGIBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:12:23.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Location.cs",
+              "RelativeDocumentMoniker": "Engine\\Location.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Location.cs",
+              "RelativeToolTip": "Engine\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:36:19.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Vendor.cs",
+              "RelativeDocumentMoniker": "Engine\\Vendor.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Vendor.cs",
+              "RelativeToolTip": "Engine\\Vendor.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:37:02.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TradingScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\TradingScreen.cs",
+              "RelativeDocumentMoniker": "Adventure\\TradingScreen.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\TradingScreen.cs [Design]",
+              "RelativeToolTip": "Adventure\\TradingScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:45:18.429Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuestCompletionItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\QuestCompletionItem.cs",
+              "RelativeDocumentMoniker": "Engine\\QuestCompletionItem.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\QuestCompletionItem.cs",
+              "RelativeToolTip": "Engine\\QuestCompletionItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:31:23.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerQuest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\PlayerQuest.cs",
+              "RelativeDocumentMoniker": "Engine\\PlayerQuest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\PlayerQuest.cs",
+              "RelativeToolTip": "Engine\\PlayerQuest.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:12:09.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Monster.cs",
+              "RelativeDocumentMoniker": "Engine\\Monster.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Monster.cs",
+              "RelativeToolTip": "Engine\\Monster.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:29:12.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Engine\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\InventoryItem.cs",
+              "RelativeToolTip": "Engine\\InventoryItem.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:31:47.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Quest.cs",
+              "RelativeDocumentMoniker": "Engine\\Quest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Quest.cs",
+              "RelativeToolTip": "Engine\\Quest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:38:16.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LivingCreature.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\LivingCreature.cs",
+              "RelativeDocumentMoniker": "Engine\\LivingCreature.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\LivingCreature.cs",
+              "RelativeToolTip": "Engine\\LivingCreature.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:21:14.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TradingScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\TradingScreen.Designer.cs",
+              "RelativeDocumentMoniker": "Adventure\\TradingScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Adventure\\TradingScreen.Designer.cs",
+              "RelativeToolTip": "Adventure\\TradingScreen.Designer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAswGgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:18:06.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Weapon.cs",
+              "RelativeDocumentMoniker": "Engine\\Weapon.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\Weapon.cs",
+              "RelativeToolTip": "Engine\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:35:22.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MessageEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\MessageEventArgs.cs",
+              "RelativeDocumentMoniker": "Engine\\MessageEventArgs.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Adventure\\Engine\\MessageEventArgs.cs",
+              "RelativeToolTip": "Engine\\MessageEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:06:55.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

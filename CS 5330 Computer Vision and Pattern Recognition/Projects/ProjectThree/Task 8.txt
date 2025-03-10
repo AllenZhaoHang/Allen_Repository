@@ -1,0 +1,80 @@
+import cv2
+import pandas as pd
+import os
+import matplotlib.pyplot as plt
+from glob import glob
+from IPython.display import display, clear_output
+from google.colab.patches import cv2_imshow
+
+# Paths
+test_images_folder = "/content/project3/assets/test_images/"
+classified_output_folder = "/content/project3/assets/classified_output/"
+classification_results_file = "/content/project3/assets/classification_results.csv"
+
+# Ensure output folder exists
+os.makedirs(classified_output_folder, exist_ok=True)
+
+# Load classification results
+if not os.path.exists(classification_results_file):
+    raise FileNotFoundError("❌ Classification results file not found! Run classification first.")
+
+df_results = pd.read_csv(classification_results_file)
+
+# Load test images
+test_images = glob(test_images_folder + "*.jpg") + glob(test_images_folder + "*.png")
+
+if len(test_images) == 0:
+    print("❌ No test images found! Please upload test images.")
+else:
+    print(f"✅ Found {len(test_images)} test images. Updating labels...")
+
+# Classification process
+for index, row in df_results.iterrows():
+    image_filename = row["TrueLabel"]  # Assuming TrueLabel column contains the filename
+    predicted_label = row["PredictedLabel"]
+
+    # Find corresponding image
+    matching_images = [img for img in test_images if image_filename in img]
+    
+    if not matching_images:
+        print(f"❌ No matching image found for {image_filename}")
+        continue
+
+    img_path = matching_images[0]  # Use the first match
+    image = cv2.imread(img_path)
+    if image is None:
+        print(f"❌ Error loading {img_path}")
+        continue
+
+    # Display original image
+    clear_output(wait=True)
+    print(f"🔹 Processing: {os.path.basename(img_path)} - Predicted Label: {predicted_label}")
+    plt.figure(figsize=(6,6))
+    plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
+    plt.title("Original Image")
+    plt.axis("off")
+    plt.show()
+
+    # Define bounding box (full image label placement)
+    x, y, w, h = 10, 50, 300, 80  # Fixed position on top left
+
+    # Draw background rectangle for text
+    cv2.rectangle(image, (x, y - 40), (x + 250, y + 10), (0, 0, 0), -1)
+
+    # Draw predicted label text
+    cv2.putText(image, f"Label: {predicted_label}", (x, y), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2)
+
+    # Save labeled image
+    output_path = os.path.join(classified_output_folder, os.path.basename(img_path))
+    cv2.imwrite(output_path, image)
+
+    # Display processed image with label
+    plt.figure(figsize=(6,6))
+    plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
+    plt.title("Labeled Image")
+    plt.axis("off")
+    plt.show()
+
+    print(f"✅ Updated label for {image_filename}: {predicted_label}")
+
+print(f"✅ Labeling completed. Results saved in {classified_output_folder}")

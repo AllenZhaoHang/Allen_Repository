@@ -1,0 +1,6 @@
+Test Results on Greek Letters Dataset:
+Epoch 1 - Test Loss: 1.4170, Test Acc: 37.04%
+Epoch 2 - Test Loss: 1.5853, Test Acc: 40.74%
+Epoch 3 - Test Loss: 1.7071, Test Acc: 33.33%
+Epoch 4 - Test Loss: 1.8382, Test Acc: 40.74%
+Epoch 5 - Test Loss: 1.9847, Test Acc: 40.74%

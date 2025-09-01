@@ -1,0 +1,13 @@
+Starting training on garbage dataset...
+Epoch 1/10, Train Acc: 40.00%, Test Acc: 38.33%
+Epoch 2/10, Train Acc: 45.00%, Test Acc: 55.00%
+Epoch 3/10, Train Acc: 59.58%, Test Acc: 66.67%
+Epoch 4/10, Train Acc: 56.67%, Test Acc: 58.33%
+Epoch 5/10, Train Acc: 66.25%, Test Acc: 61.67%
+Epoch 6/10, Train Acc: 63.33%, Test Acc: 60.00%
+Epoch 7/10, Train Acc: 67.08%, Test Acc: 51.67%
+Epoch 8/10, Train Acc: 62.92%, Test Acc: 65.00%
+Epoch 9/10, Train Acc: 68.33%, Test Acc: 68.33%
+Epoch 10/10, Train Acc: 68.33%, Test Acc: 68.33%
+Final Test Accuracy: 68.33%, Training Time: 4.54 seconds
+Model saved as 'garbage_classifier.pth'. Plot saved as 'garbage_accuracy_plot.png'.

@@ -1,0 +1,15 @@
+Network structure:
+MyNetwork(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (pool1): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (dropout): Dropout(p=0.25, inplace=False)
+  (pool2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+
+Output shape with dummy input: torch.Size([1, 10])
+Sample output (log softmax values): [-2.1346323 -2.3326178 -2.4108875 -2.322722  -2.356122  -2.378464
+ -2.4649508 -2.2095587 -2.540059  -1.9963903]
+Task 1B completed: Network model built and tested.

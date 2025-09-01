@@ -1,0 +1,38 @@
+Cycle 1/3
+Optimizing number of conv layers...
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.25, 'batch_size': 64}
+Testing config: {'num_conv_layers': 3, 'dropout_rate': 0.25, 'batch_size': 64}
+Optimizing dropout rate...
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.25, 'batch_size': 64}
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.5, 'batch_size': 64}
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.75, 'batch_size': 64}
+Optimizing batch size...
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.25, 'batch_size': 32}
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.25, 'batch_size': 64}
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.25, 'batch_size': 128}
+
+Cycle 2/3
+Optimizing number of conv layers...
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.25, 'batch_size': 64}
+Testing config: {'num_conv_layers': 3, 'dropout_rate': 0.25, 'batch_size': 64}
+Optimizing dropout rate...
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.25, 'batch_size': 64}
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.5, 'batch_size': 64}
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.75, 'batch_size': 64}
+Optimizing batch size...
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.25, 'batch_size': 32}
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.25, 'batch_size': 64}
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.25, 'batch_size': 128}
+
+Cycle 3/3
+Optimizing number of conv layers...
+Testing config: {'num_conv_layers': 2, 'dropout_rate': 0.25, 'batch_size': 32}
+Testing config: {'num_conv_layers': 3, 'dropout_rate': 0.25, 'batch_size': 32}
+Optimizing dropout rate...
+Testing config: {'num_conv_layers': 3, 'dropout_rate': 0.25, 'batch_size': 32}
+Testing config: {'num_conv_layers': 3, 'dropout_rate': 0.5, 'batch_size': 32}
+Testing config: {'num_conv_layers': 3, 'dropout_rate': 0.75, 'batch_size': 32}
+Optimizing batch size...
+Testing config: {'num_conv_layers': 3, 'dropout_rate': 0.25, 'batch_size': 32}
+Testing config: {'num_conv_layers': 3, 'dropout_rate': 0.25, 'batch_size': 64}
+Testing config: {'num_conv_layers': 3, 'dropout_rate': 0.25, 'batch_size': 128}

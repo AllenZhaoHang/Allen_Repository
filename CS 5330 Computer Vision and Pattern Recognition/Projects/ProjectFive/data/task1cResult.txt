@@ -1,0 +1,8 @@
+Epoch 1/5 - Train Loss: 0.0914, Test Loss: 0.0845, Train Acc: 97.28%, Test Acc: 97.43%
+Epoch 2/5 - Train Loss: 0.0558, Test Loss: 0.0536, Train Acc: 98.44%, Test Acc: 98.39%
+Epoch 3/5 - Train Loss: 0.0509, Test Loss: 0.0502, Train Acc: 98.52%, Test Acc: 98.61%
+Epoch 4/5 - Train Loss: 0.0346, Test Loss: 0.0367, Train Acc: 99.09%, Test Acc: 98.98%
+Epoch 5/5 - Train Loss: 0.0400, Test Loss: 0.0417, Train Acc: 98.75%, Test Acc: 98.66%
+2025-03-18 10:33:28.718 Python[12707:491176] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-18 10:34:26.078 Python[12707:491176] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Training completed. Plots saved as 'loss_plot.png' and 'accuracy_plot.png'.

@@ -2,6 +2,7 @@
 const express = require('express');
 const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
+const cors = require('cors');
 require('dotenv').config();
 
 const profileRoutes = require('./routes/profiles');
@@ -12,7 +13,7 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 // --------------------- Trust Proxy ---------------------
-// Render 等平台会在请求头里加 X-Forwarded-For
+// Render / Heroku 等云平台请求头里会有 X-Forwarded-For
 app.set('trust proxy', 1);
 
 // --------------------- Security Middleware ---------------------
@@ -20,7 +21,7 @@ app.use(helmet());
 
 // --------------------- Rate Limiting ---------------------
 const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 分钟
+  windowMs: 15 * 60 * 1000, // 15 minutes
   max: 100,
   standardHeaders: true,
   legacyHeaders: false,
@@ -29,34 +30,15 @@ const limiter = rateLimit({
 app.use(limiter);
 
 // --------------------- CORS ---------------------
-// 自定义 CORS 中间件，支持主域名 + 动态 Vercel Preview URL
-app.use((req, res, next) => {
-  const origin = req.headers.origin;
+// Method 2: Development - allow all origins
+app.use(cors({
+  origin: '*', // allow all domains
+  credentials: true,
+  allowedHeaders: ['Authorization', 'Content-Type'],
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS']
+}));
 
-  if (!origin) return next(); // Postman / curl 等没有 origin 的请求直接放行
-
-  const allowedOrigins = [
-    process.env.FRONTEND_URL, // 主前端 URL
-  ];
-
-  if (allowedOrigins.includes(origin)) {
-    res.setHeader('Access-Control-Allow-Origin', origin);
-  } else if (/^https:\/\/rateyourexfrontend-.*\.vercel\.app$/.test(origin)) {
-    res.setHeader('Access-Control-Allow-Origin', origin);
-  } else {
-    return res.status(403).send('Not allowed by CORS');
-  }
-
-  res.setHeader('Access-Control-Allow-Credentials', 'true');
-  res.setHeader('Access-Control-Allow-Headers', 'Authorization,Content-Type');
-  res.setHeader('Access-Control-Allow-Methods', 'GET,POST,PUT,DELETE,OPTIONS');
-
-  if (req.method === 'OPTIONS') {
-    return res.sendStatus(204);
-  }
-
-  next();
-});
+app.options('*', cors()); // support preflight requests
 
 // --------------------- Body Parsing ---------------------
 app.use(express.json({ limit: '10mb' }));

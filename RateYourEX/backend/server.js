@@ -1,6 +1,5 @@
 // server.js
 const express = require('express');
-const cors = require('cors');
 const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
 require('dotenv').config();
@@ -30,27 +29,34 @@ const limiter = rateLimit({
 app.use(limiter);
 
 // --------------------- CORS ---------------------
-// 方法一：允许多个前端域名（包括 Vercel Preview 动态 URL）
-const allowedOrigins = [
-  process.env.FRONTEND_URL, // 主前端 URL，例如 https://rateyourexfrontend.vercel.app
-  process.env.FRONTEND_URL_ALT // 可选备用 URL
-];
+// 自定义 CORS 中间件，支持主域名 + 动态 Vercel Preview URL
+app.use((req, res, next) => {
+  const origin = req.headers.origin;
 
-app.use(cors({
-  origin: function(origin, callback) {
-    if (!origin) return callback(null, true); // Postman/curl 等没有 origin
-    if (allowedOrigins.includes(origin)) return callback(null, true);
-    // 支持 Vercel Preview URL 动态域名
-    if (/^https:\/\/rateyourexfrontend-.*\.vercel\.app$/.test(origin)) return callback(null, true);
+  if (!origin) return next(); // Postman / curl 等没有 origin 的请求直接放行
 
-    return callback(new Error('Not allowed by CORS'), false);
-  },
-  credentials: true,
-  allowedHeaders: ['Content-Type', 'Authorization'],
-  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS']
-}));
+  const allowedOrigins = [
+    process.env.FRONTEND_URL, // 主前端 URL
+  ];
 
-app.options('*', cors()); // 支持预检请求
+  if (allowedOrigins.includes(origin)) {
+    res.setHeader('Access-Control-Allow-Origin', origin);
+  } else if (/^https:\/\/rateyourexfrontend-.*\.vercel\.app$/.test(origin)) {
+    res.setHeader('Access-Control-Allow-Origin', origin);
+  } else {
+    return res.status(403).send('Not allowed by CORS');
+  }
+
+  res.setHeader('Access-Control-Allow-Credentials', 'true');
+  res.setHeader('Access-Control-Allow-Headers', 'Authorization,Content-Type');
+  res.setHeader('Access-Control-Allow-Methods', 'GET,POST,PUT,DELETE,OPTIONS');
+
+  if (req.method === 'OPTIONS') {
+    return res.sendStatus(204);
+  }
+
+  next();
+});
 
 // --------------------- Body Parsing ---------------------
 app.use(express.json({ limit: '10mb' }));

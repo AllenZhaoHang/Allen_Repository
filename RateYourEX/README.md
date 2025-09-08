@@ -1,6 +1,8 @@
 # Rate Your EX
 
 A full-stack web application for anonymously rating and reviewing profiles. Built with React, Express, and Supabase.
+# 🚀 Live Demo  
+👉 [Click here to try Rate Your EX](https://rateyourexfrontend.vercel.app/)
 
 ## Features
 

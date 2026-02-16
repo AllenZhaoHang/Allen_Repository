@@ -1,0 +1,100 @@
+Loaded 4 jobs.
+
+
+Current time: 0	 Current job -1
+Timing diagram: 
+Process queue: 
+
+New job 0 at time 0.
+Current time: 0	 Current job 0
+Timing diagram: 
+Process queue: 0 
+
+Tick at time 2.
+Current time: 2	 Current job 0
+Timing diagram: 00
+Process queue: 0 
+
+Tick at time 4.
+Current time: 4	 Current job 0
+Timing diagram: 0000
+Process queue: 0 
+
+New job 1 at time 4.
+Current time: 4	 Current job 0
+Timing diagram: 0000
+Process queue: 0 1 
+
+Tick at time 6.
+Current time: 6	 Current job 1
+Timing diagram: 000000
+Process queue: 1 0 
+
+Tick at time 8.
+Current time: 8	 Current job 0
+Timing diagram: 00000011
+Process queue: 0 1 
+
+Job 0 finished at time 10.
+Current time: 10	 Current job 1
+Timing diagram: 0000001100
+Process queue: 1 
+
+Tick at time 12.
+Current time: 12	 Current job 1
+Timing diagram: 000000110011
+Process queue: 1 
+
+Job 1 finished at time 14.
+Current time: 14	 Current job -1
+Timing diagram: 00000011001111
+Process queue: 
+
+New job 2 at time 20.
+Current time: 20	 Current job 2
+Timing diagram: 00000011001111------
+Process queue: 2 
+
+Tick at time 20.
+Current time: 20	 Current job 2
+Timing diagram: 00000011001111------
+Process queue: 2 
+
+Tick at time 22.
+Current time: 22	 Current job 2
+Timing diagram: 00000011001111------22
+Process queue: 2 
+
+New job 3 at time 22.
+Current time: 22	 Current job 2
+Timing diagram: 00000011001111------22
+Process queue: 2 3 
+
+Tick at time 24.
+Current time: 24	 Current job 3
+Timing diagram: 00000011001111------2222
+Process queue: 3 2 
+
+Tick at time 26.
+Current time: 26	 Current job 2
+Timing diagram: 00000011001111------222233
+Process queue: 2 3 
+
+Tick at time 28.
+Current time: 28	 Current job 3
+Timing diagram: 00000011001111------22223322
+Process queue: 3 2 
+
+Job 3 finished at time 29.
+Current time: 29	 Current job 2
+Timing diagram: 00000011001111------222233223
+Process queue: 2 
+
+Job 2 finished at time 30.
+
+
+Final timing diagram:
+	00000011001111------2222332232
+Average Response Time: 1.00
+Average Waiting Time: 3.25
+Average Turnaround Time: 9.25

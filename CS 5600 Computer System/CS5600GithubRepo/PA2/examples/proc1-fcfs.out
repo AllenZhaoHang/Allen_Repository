@@ -1,0 +1,50 @@
+Loaded 4 jobs.
+
+
+Current time: 0	 Current job -1
+Timing diagram: 
+Process queue: 
+
+New job 0 at time 0.
+Current time: 0	 Current job 0
+Timing diagram: 
+Process queue: 0 
+
+New job 1 at time 4.
+Current time: 4	 Current job 0
+Timing diagram: 0000
+Process queue: 0 1 
+
+Job 0 finished at time 8.
+Current time: 8	 Current job 1
+Timing diagram: 00000000
+Process queue: 1 
+
+Job 1 finished at time 14.
+Current time: 14	 Current job -1
+Timing diagram: 00000000111111
+Process queue: 
+
+New job 2 at time 20.
+Current time: 20	 Current job 2
+Timing diagram: 00000000111111------
+Process queue: 2 
+
+New job 3 at time 22.
+Current time: 22	 Current job 2
+Timing diagram: 00000000111111------22
+Process queue: 2 3 
+
+Job 2 finished at time 27.
+Current time: 27	 Current job 3
+Timing diagram: 00000000111111------2222222
+Process queue: 3 
+
+Job 3 finished at time 30.
+
+
+Final timing diagram:
+	00000000111111------2222222333
+Average Response Time: 2.25
+Average Waiting Time: 2.25
+Average Turnaround Time: 8.25

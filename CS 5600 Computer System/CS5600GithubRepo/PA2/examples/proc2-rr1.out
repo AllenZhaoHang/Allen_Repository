@@ -1,0 +1,155 @@
+Loaded 5 jobs.
+
+
+Current time: 0	 Current job -1
+Timing diagram: 
+Process queue: 
+
+New job 0 at time 0.
+Current time: 0	 Current job 0
+Timing diagram: 
+Process queue: 0 
+
+Tick at time 1.
+Current time: 1	 Current job 0
+Timing diagram: 0
+Process queue: 0 
+
+New job 1 at time 1.
+Current time: 1	 Current job 0
+Timing diagram: 0
+Process queue: 0 1 
+
+Tick at time 2.
+Current time: 2	 Current job 1
+Timing diagram: 00
+Process queue: 1 0 
+
+New job 2 at time 2.
+Current time: 2	 Current job 1
+Timing diagram: 00
+Process queue: 1 0 2 
+
+Tick at time 3.
+Current time: 3	 Current job 0
+Timing diagram: 001
+Process queue: 0 2 1 
+
+New job 3 at time 3.
+Current time: 3	 Current job 0
+Timing diagram: 001
+Process queue: 0 2 1 3 
+
+Job 0 finished at time 4.
+Current time: 4	 Current job 2
+Timing diagram: 0010
+Process queue: 2 1 3 
+
+New job 4 at time 4.
+Current time: 4	 Current job 2
+Timing diagram: 0010
+Process queue: 2 1 3 4 
+
+Tick at time 5.
+Current time: 5	 Current job 1
+Timing diagram: 00102
+Process queue: 1 3 4 2 
+
+Tick at time 6.
+Current time: 6	 Current job 3
+Timing diagram: 001021
+Process queue: 3 4 2 1 
+
+Tick at time 7.
+Current time: 7	 Current job 4
+Timing diagram: 0010213
+Process queue: 4 2 1 3 
+
+Tick at time 8.
+Current time: 8	 Current job 2
+Timing diagram: 00102134
+Process queue: 2 1 3 4 
+
+Tick at time 9.
+Current time: 9	 Current job 1
+Timing diagram: 001021342
+Process queue: 1 3 4 2 
+
+Tick at time 10.
+Current time: 10	 Current job 3
+Timing diagram: 0010213421
+Process queue: 3 4 2 1 
+
+Job 3 finished at time 11.
+Current time: 11	 Current job 4
+Timing diagram: 00102134213
+Process queue: 4 2 1 
+
+Tick at time 12.
+Current time: 12	 Current job 2
+Timing diagram: 001021342134
+Process queue: 2 1 4 
+
+Tick at time 13.
+Current time: 13	 Current job 1
+Timing diagram: 0010213421342
+Process queue: 1 4 2 
+
+Tick at time 14.
+Current time: 14	 Current job 4
+Timing diagram: 00102134213421
+Process queue: 4 2 1 
+
+Tick at time 15.
+Current time: 15	 Current job 2
+Timing diagram: 001021342134214
+Process queue: 2 1 4 
+
+Tick at time 16.
+Current time: 16	 Current job 1
+Timing diagram: 0010213421342142
+Process queue: 1 4 2 
+
+Tick at time 17.
+Current time: 17	 Current job 4
+Timing diagram: 00102134213421421
+Process queue: 4 2 1 
+
+Job 4 finished at time 18.
+Current time: 18	 Current job 2
+Timing diagram: 001021342134214214
+Process queue: 2 1 
+
+Job 2 finished at time 19.
+Current time: 19	 Current job 1
+Timing diagram: 0010213421342142142
+Process queue: 1 
+
+Tick at time 20.
+Current time: 20	 Current job 1
+Timing diagram: 00102134213421421421
+Process queue: 1 
+
+Tick at time 21.
+Current time: 21	 Current job 1
+Timing diagram: 001021342134214214211
+Process queue: 1 
+
+Tick at time 22.
+Current time: 22	 Current job 1
+Timing diagram: 0010213421342142142111
+Process queue: 1 
+
+Tick at time 23.
+Current time: 23	 Current job 1
+Timing diagram: 00102134213421421421111
+Process queue: 1 
+
+Job 1 finished at time 24.
+
+
+Final timing diagram:
+	001021342134214214211111
+Average Response Time: 1.80
+Average Waiting Time: 8.40
+Average Turnaround Time: 13.20

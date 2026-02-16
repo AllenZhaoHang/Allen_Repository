@@ -1,0 +1,4 @@
+echo "Test 1" ; echo "Test 2" ; echo "Test 3"
+ls -l ; pwd ; date
+cat batch_complex.txt ; echo "Done"
+quit

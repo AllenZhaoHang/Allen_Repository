@@ -1,0 +1,4 @@
+ls
+pwd
+echo "Batch mode test"
+quit

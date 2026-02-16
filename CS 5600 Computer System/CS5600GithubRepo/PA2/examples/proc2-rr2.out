@@ -1,0 +1,100 @@
+Loaded 5 jobs.
+
+
+Current time: 0	 Current job -1
+Timing diagram: 
+Process queue: 
+
+New job 0 at time 0.
+Current time: 0	 Current job 0
+Timing diagram: 
+Process queue: 0 
+
+New job 1 at time 1.
+Current time: 1	 Current job 0
+Timing diagram: 0
+Process queue: 0 1 
+
+Tick at time 2.
+Current time: 2	 Current job 1
+Timing diagram: 00
+Process queue: 1 0 
+
+New job 2 at time 2.
+Current time: 2	 Current job 1
+Timing diagram: 00
+Process queue: 1 0 2 
+
+New job 3 at time 3.
+Current time: 3	 Current job 1
+Timing diagram: 001
+Process queue: 1 0 2 3 
+
+Tick at time 4.
+Current time: 4	 Current job 0
+Timing diagram: 0011
+Process queue: 0 2 3 1 
+
+New job 4 at time 4.
+Current time: 4	 Current job 0
+Timing diagram: 0011
+Process queue: 0 2 3 1 4 
+
+Job 0 finished at time 5.
+Current time: 5	 Current job 2
+Timing diagram: 00110
+Process queue: 2 3 1 4 
+
+Tick at time 7.
+Current time: 7	 Current job 3
+Timing diagram: 0011022
+Process queue: 3 1 4 2 
+
+Job 3 finished at time 9.
+Current time: 9	 Current job 1
+Timing diagram: 001102233
+Process queue: 1 4 2 
+
+Tick at time 11.
+Current time: 11	 Current job 4
+Timing diagram: 00110223311
+Process queue: 4 2 1 
+
+Tick at time 13.
+Current time: 13	 Current job 2
+Timing diagram: 0011022331144
+Process queue: 2 1 4 
+
+Tick at time 15.
+Current time: 15	 Current job 1
+Timing diagram: 001102233114422
+Process queue: 1 4 2 
+
+Tick at time 17.
+Current time: 17	 Current job 4
+Timing diagram: 00110223311442211
+Process queue: 4 2 1 
+
+Job 4 finished at time 19.
+Current time: 19	 Current job 2
+Timing diagram: 0011022331144221144
+Process queue: 2 1 
+
+Job 2 finished at time 20.
+Current time: 20	 Current job 1
+Timing diagram: 00110223311442211442
+Process queue: 1 
+
+Tick at time 22.
+Current time: 22	 Current job 1
+Timing diagram: 0011022331144221144211
+Process queue: 1 
+
+Job 1 finished at time 24.
+
+
+Final timing diagram:
+	001102233114422114421111
+Average Response Time: 3.00
+Average Waiting Time: 8.60
+Average Turnaround Time: 13.40
